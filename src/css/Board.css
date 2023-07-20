@@ -1,0 +1,12 @@
+.board-rows{
+    position: static;
+    top: 300px;
+
+    display:flex;
+    flex-direction: column;
+
+}
+
+.row{
+    display: flex;
+}
